@@ -12,13 +12,10 @@
 .idea/**/dictionaries
 .idea/**/shelf
 
-.idea/
-*.iws
+/.idea/
 *.iml
 *.ipr
 *.xml
-target/
-out/
 .DS_STORE /src/main/resources/log
 .git/
 
@@ -61,6 +58,7 @@ cmake-build-*/
 *.iws
 
 # IntelliJ
+target/
 out/
 
 # mpeltonen/sbt-idea plugin
@@ -158,4 +156,3 @@ nbdist/
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/netbeans,vscode,intellij,java
-/.idea/
